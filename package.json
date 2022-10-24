@@ -3,10 +3,10 @@
     "name": "merkle-bitcoin",
     "version": "1.0.0",
     "description": "Bitcoin-style merkle root generation.",
-    "homepage": "https://github.com/jorgezaccaro/merkle-bitcoin",
+    "homepage": "git+https://github.com/SpiritedAwayLab/merkle-bitcoin.git",
     "repository": {
         "type": "git",
-        "url": "git://github.com/jorgezaccaro/merkle-bitcoin.git"
+        "url": "git+https://github.com/SpiritedAwayLab/merkle-bitcoin.git"
     },
     "keywords": [
         "merkle",
